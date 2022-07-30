@@ -41,12 +41,6 @@ class stackADT:
             print("The Stack is Empty!!")
         else:
             print(self.l[self.top])
-
-
-
-
-
-
     def add(self):
         a1=self.Pop()
         a2=self.Pop()
